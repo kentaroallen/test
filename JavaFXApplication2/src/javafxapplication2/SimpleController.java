@@ -23,8 +23,8 @@ public class SimpleController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me!");
-        label.setText("Hello World!");
+        System.out.println("You clicked me! desktop update");
+        label.setText("Hello World! desk top tesssst olololollololololololol");
     }
     
     @Override
